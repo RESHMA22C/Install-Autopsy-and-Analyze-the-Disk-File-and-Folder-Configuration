@@ -1,4 +1,6 @@
 # Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
+# NAME: RESHMA C
+# REG NO: 212223040168
 ## AIM:
 To install Autopsy on Kali Linux and analyze disk images, files, and folder configurations for digital forensic purposes.
 
